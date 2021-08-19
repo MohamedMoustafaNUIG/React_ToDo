@@ -1,6 +1,6 @@
 # To Do List Preview 
 
-![App Preview](https://https://github.com/MohamedMoustafaNUIG/React_ToDo/blob/master/AppPreview.png)
+![App Preview](https://github.com/MohamedMoustafaNUIG/React_ToDo/blob/master/AppPreview.png)
 
 # Getting Started with Create React App
 
